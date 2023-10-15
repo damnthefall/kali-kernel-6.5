@@ -1,0 +1,6 @@
+{
+  "name":  "kali-kernel-6.5-devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/base:dev-bookworm",
+  "features": {
+  }
+}
